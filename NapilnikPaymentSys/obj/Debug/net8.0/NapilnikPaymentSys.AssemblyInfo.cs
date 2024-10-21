@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NapilnikPaymentSys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8511f18c542f0ba21c489752b1cbf412014989")]
 [assembly: System.Reflection.AssemblyProductAttribute("NapilnikPaymentSys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NapilnikPaymentSys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\bin\Debug\net8.0\NapilnikPaymentSys.exe
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\bin\Debug\net8.0\NapilnikPaymentSys.deps.json
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\bin\Debug\net8.0\NapilnikPaymentSys.runtimeconfig.json
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\bin\Debug\net8.0\NapilnikPaymentSys.dll
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\bin\Debug\net8.0\NapilnikPaymentSys.pdb
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.AssemblyInfoInputs.cache
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.AssemblyInfo.cs
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.csproj.CoreCompileInputs.cache
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.sourcelink.json
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.dll
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\refint\NapilnikPaymentSys.dll
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.pdb
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\NapilnikPaymentSys.genruntimeconfig.cache
+C:\Users\nasusfen\RiderProjects\NapilnikPaymentSys\NapilnikPaymentSys\obj\Debug\net8.0\ref\NapilnikPaymentSys.dll
